@@ -1,0 +1,3 @@
+[submodule "jax_MCMC_blog_post"]
+	path = jax_MCMC_blog_post
+	url = https://github.com/jeremiecoullon/jax_MCMC_blog_post
